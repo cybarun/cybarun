@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **barunk622@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16kYDlV44pes6mrCJHIGHkXY2ACrvToML/edit?usp=drive_link&ouid=107499704807104215668&rtpof=true&sd=true](Barun Resume (1).pdf)
+- 📄 Know about my experiences [https://docs.google.com/document/d/16kYDlV44pes6mrCJHIGHkXY2ACrvToML/edit?usp=drive_link&ouid=107499704807104215668&rtpof=true&sd=true]([Barun Resume (1).pdf](https://github.com/cybarun/Barun_kumar_cv/blob/7d7094a4f9ae1add1c1c53f0343c04ca4805d53a/Barun%20Resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
