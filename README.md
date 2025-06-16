@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Movie recommendation**
 
-- 🌱 I’m currently learning **Full stack developer**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://barunk622.wixsite.com/barun](https://barunk622.wixsite.com/barun)
 
