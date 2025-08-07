@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybarun&label=Profile%20views&color=0e75b6&style=flat" alt="cybarun" /> </p>
 
-- 🔭 I’m currently working on **Movie recommendation**
+- 🔭 I’m currently working on **Banking Automation system**
 
 - 🌱 I’m currently learning **Data Analyst**
 
